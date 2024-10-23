@@ -19,3 +19,7 @@ ASSIGNMENT-5
 https://colab.research.google.com/drive/1orFCr87tbHTXaFCJBLOV_tSXQA5WKcDX#scrollTo=WIbVQpWKceB4    
 ASSIGNMENT-6  
 https://colab.research.google.com/drive/17WMT7-sVSjxt9_Mi-LEv_uzZ2uVDB4Mt#scrollTo=xxEC7n8lhmJq    
+ASSIGNMENT-7   
+https://colab.research.google.com/drive/1LoYsYJF-9AzDT1xutIQJJ8h4ILJRMSaX#scrollTo=W1LhDIq3jUUx   
+ASSIGNMENT-8   
+https://colab.research.google.com/drive/12T9XGSthrLE_F5adBgK-vMLWom8ZJW9D#scrollTo=j7y16Cgjm3H4   
