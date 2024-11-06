@@ -27,3 +27,5 @@ ASSIGNMENT-9
 https://colab.research.google.com/drive/1OkBNVL0ALO4r8rsI5ZfTxQXSkzOBbcUC#scrollTo=2-y5pvnY2igo  
 ASSIGNMENT-10     
 https://colab.research.google.com/drive/1paBSYe50iZ3H5bCEpd1_bMz_B6LdcSYo#scrollTo=Bw_Ngp7zmLLC   
+LAB EXAM
+https://colab.research.google.com/drive/1mhpz51RlePs62YsgrvVj3m6PpyIIszz-#scrollTo=BTIfsveV2SYm
